@@ -1,5 +1,4 @@
 FrostGuard AI 🌡️ 🚀
-À propos
 FrostGuard AI est un système intelligent de protection contre le givre qui combine :
 
 Capteurs IoT (température du sol, humidité, conditions atmosphériques)
@@ -20,23 +19,20 @@ Fonctionnalités
 Installation
 
 Cloner le dépôt :
-
- clone https://github.com/votre-username/frostguard-ai.git
+git clone https://github.com/votre-username/frostguard-ai.git
 cd frostguard-ai
-
 Installer les dépendances :
-
 pip install -r requirements.txt
-
 Configurer les variables d'environnement :
-
 
 Créer un fichier .env à la racine du projet
 Ajouter votre clé API WeatherAPI.com :
+API_KEY = "votre-api-weatherapi.com"
 
-WEATHER_API_KEY=votre_clé_api
+
 Utilisation
-pythonCopypython main.py
+Pour lancer le programme :
+python main.py
 Structure du Projet
 frostguard-ai/
 ├── main.py
