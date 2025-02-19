@@ -35,9 +35,4 @@ Pour lancer le programme :
 python projet-hackathon.py
 
 Structure du Projet:
-frostguard-ai/
-├── main.py
-├── frost_prevention.log
-├── requirements.txt
-├── .env
-└── README.md
+![image](https://github.com/user-attachments/assets/8641776f-2428-47d4-b282-fa643460606d)
