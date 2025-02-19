@@ -33,11 +33,3 @@ API_KEY = "votre-api-weatherapi.com"
 Utilisation
 Pour lancer le programme :
 python projet-hackathon.py
-
-Structure du Projet:
-frostguard-ai/
-├── main.py
-├── frost_prevention.log
-├── requirements.txt
-├── .env
-└── README.md
